@@ -10,7 +10,9 @@ namespace AppPedidos.Models
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
         public string NameProduct { get; set; }
-        public string CantProduct { get; set; }
-        public string PriceProduct { get; set; }
+        public int CantProduct { get; set; }
+
+        public decimal PriceProduct { get; set; }
     }
 }
+

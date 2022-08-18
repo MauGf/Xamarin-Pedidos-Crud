@@ -11,7 +11,8 @@ namespace AppPedidos.Controller
     {
         SQLiteAsyncConnection db;
 
-        //constructor que me permite crear la estructura de la tabla d ela base de datos al modelo
+        //Constructor que me permite crear o conectarme a la BD
+        //Crear la estructura de la tabla en base al modelo
         public SQLiteHelper(string dbpath)
         {
             db = new SQLiteAsyncConnection(dbpath);
@@ -19,8 +20,10 @@ namespace AppPedidos.Controller
 
         }
 
-        //Metoo asyncrono para actualizar e inserter registros en un abd
-        public Task <int> SaveItemsAsync(Productos productos)
+        //Metodo Asyncrono para actualizar y insertar registros
+        //en una BD
+
+        public Task<int> SaveItemAsync(Productos productos)
         {
             if (productos.Id != 0)
             {
@@ -30,11 +33,27 @@ namespace AppPedidos.Controller
             {
                 return db.InsertAsync(productos);
             }
+
         }
 
-        public Task<List<Productos>> GetItemsAsync()
+        //Metodo Asyncrono para listar informacion de la Base de datos
+        public Task<List<Productos>> GetItemsAsycn()
         {
             return db.Table<Productos>().ToListAsync();
         }
+
+        //Consulta por Id
+        public Task<Productos> GetItemAsync(int productid)
+        {
+            return db.Table<Productos>().Where(i => i.Id == productid).FirstOrDefaultAsync();
+            //Transct-SQL -Lenguaje Estructurado para consultas
+            //Select * from productos where id=productid;
+        }
+
+        public Task<int> DeleteItemAsync(Productos productos)
+        {
+            return db.DeleteAsync(productos);
+        }
+
     }
 }
