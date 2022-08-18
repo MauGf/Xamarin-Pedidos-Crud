@@ -1,0 +1,14 @@
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\bin\Debug\netstandard2.0\AppPedidos.deps.json
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\bin\Debug\netstandard2.0\AppPedidos.dll
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\bin\Debug\netstandard2.0\ref\AppPedidos.dll
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\bin\Debug\netstandard2.0\AppPedidos.pdb
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\AppPedidos.csproj.AssemblyReference.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\AppPedidos.AssemblyInfoInputs.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\AppPedidos.AssemblyInfo.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\AppPedidos.csproj.CoreCompileInputs.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\AppPedidos.dll
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\ref\AppPedidos.dll
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppPedidos\AppPedidos\obj\Debug\netstandard2.0\AppPedidos.pdb
