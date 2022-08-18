@@ -1,0 +1,16 @@
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\bin\Debug\netstandard2.0\MVVMPedidos.deps.json
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\bin\Debug\netstandard2.0\MVVMPedidos.dll
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\bin\Debug\netstandard2.0\ref\MVVMPedidos.dll
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\bin\Debug\netstandard2.0\MVVMPedidos.pdb
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\MVVMPedidos.csproj.AssemblyReference.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\Views\ProductsAdd.xaml.g.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\Views\ProductsPage.xaml.g.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\MVVMPedidos.AssemblyInfoInputs.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\MVVMPedidos.AssemblyInfo.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\MVVMPedidos.csproj.CoreCompileInputs.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\MVVMPedidos.dll
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\ref\MVVMPedidos.dll
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\MVVMPedidos\MVVMPedidos\obj\Debug\netstandard2.0\MVVMPedidos.pdb

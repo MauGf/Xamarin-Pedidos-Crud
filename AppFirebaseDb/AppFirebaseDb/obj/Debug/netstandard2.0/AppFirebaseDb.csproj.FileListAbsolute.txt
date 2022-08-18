@@ -1,0 +1,6 @@
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb\obj\Debug\netstandard2.0\AppFirebaseDb.csproj.AssemblyReference.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb\obj\Debug\netstandard2.0\AppFirebaseDb.AssemblyInfoInputs.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb\obj\Debug\netstandard2.0\AppFirebaseDb.AssemblyInfo.cs
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb\obj\Debug\netstandard2.0\AppFirebaseDb.csproj.CoreCompileInputs.cache

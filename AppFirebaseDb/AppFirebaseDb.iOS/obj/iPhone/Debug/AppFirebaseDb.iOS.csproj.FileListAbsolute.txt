@@ -1,0 +1,8 @@
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb.iOS\obj\iPhone\Debug\optimized\
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb.iOS\obj\iPhone\Debug\AppFirebaseDb.iOS.csproj.AssemblyReference.cache
+D:\Curso Desarrollo Xamarin\Xamarin-Pedidos\AppFirebaseDb\AppFirebaseDb.iOS\obj\iPhone\Debug\AppFirebaseDb.iOS.csproj.CoreCompileInputs.cache
