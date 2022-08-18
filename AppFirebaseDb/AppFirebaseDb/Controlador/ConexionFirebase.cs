@@ -10,7 +10,7 @@ namespace AppFirebaseDb.Controlador
 {
     public class ConexionFirebase
     {
-        FirebaseClient firebaseClient = new FirebaseClient("https://app-xamarin-9c42a-default-rtdb.firebaseio.com/");
+        FirebaseClient firebaseClient = new FirebaseClient("");
         public async Task<bool> Save(Productos producto)
         {
             var data = await firebaseClient.Child(nameof(Productos)).PostAsync(JsonConvert.SerializeObject(producto));
