@@ -100,14 +100,20 @@
                    Grid.Column="0"
                    Margin="2" />
             <Button x:Name="btnAddProduct"
-                    Text="Agregar pedido"
-                    Clicked="btnAddProduct_Clicked"
-                    Margin="2"
                     Grid.Row="2"
                     Grid.Column="0"
-                    BackgroundColor="#ff6633"
-                    TextColor="#fff" />
-
+                    ImageSource="WhiteArrow"
+                    HorizontalOptions="End"
+                    VerticalOptions="Center"
+                    BackgroundColor="#fdc912"
+                    HeightRequest="100"
+                    WidthRequest="70"
+                    CornerRadius="90"
+                    TranslationX="-20"
+                    Text="+"
+                    FontSize="35"
+                    TranslationY="{OnPlatform Android='-20'}"
+                    Clicked="btnAddProduct_Clicked" />
         </Grid>
     </ContentPage.Content>
 </ContentPage>

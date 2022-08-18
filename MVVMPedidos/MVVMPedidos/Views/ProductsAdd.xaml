@@ -49,7 +49,7 @@
                 <Button Text="{Binding btnSaveLabel}"
                         x:Name="btnSave"
                         HorizontalOptions="FillAndExpand"
-                        BackgroundColor="#ff6633"
+                        BackgroundColor="#fdc912"
                         TextColor="#fff"
                         Margin="2"
                         Grid.Column="0"
